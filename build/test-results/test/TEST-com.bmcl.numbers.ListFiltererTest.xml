@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bmcl.numbers.ListFiltererTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-02T15:37:04" hostname="MSI" time="0.018">
+  <properties/>
+  <testcase name="filterAcceptNone()" classname="com.bmcl.numbers.ListFiltererTest" time="0.016"/>
+  <testcase name="filterAcceptAll()" classname="com.bmcl.numbers.ListFiltererTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
